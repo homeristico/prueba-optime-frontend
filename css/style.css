@@ -1,0 +1,18 @@
+form {
+    padding: 10px;
+}
+
+.bi-pencil-square {
+    color: rgb(47, 47, 233);
+}
+
+.bi-pencil-square:hover {
+    cursor: pointer;
+}
+.bi-trash {
+    color: red;
+}
+
+.bi-trash:hover {
+    cursor: pointer;
+}
